@@ -1,0 +1,4 @@
+Resolusi
+- a
+- b
+-c 
